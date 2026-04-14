@@ -1,4 +1,4 @@
-# Jugando conbarro  
+# Jugando con barro  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
