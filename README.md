@@ -11,27 +11,27 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : _______
+**Titulo** : Jugando con barro: La historia de un pueblo
 
-**Autor(es)** ______________
+**Autor(es)** : Cristian Iván Cuevas Martínez, Marco Antonio Gonzales Cadillo y Mikel Vellisca Risco
 
 **Resumen** : _________
 
-**logotipo** :  ________
+**Logotipo** :  ________
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag** : #ArenasArmillaCyD #JugandoConBarro
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2024
+**Fecha** : 2026
 
-**Medios** (donde se tiene presencia): 
+**Medios** : 
 
 
 * :octocat: (github url) 
-* ArcWeave:
+* ArcWeave: 
 * Protopie:
 *  
 
