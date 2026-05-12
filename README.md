@@ -26,6 +26,7 @@ Univesidad de Granada
 
 **Medios** : 
 * https://evellisca-ship-it.github.io/JugandoConBarro/
+* ArcWaveÑ https://arcweave.com/app/project/25lbvDplD4?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.187023&coords=-19724.763193318926,-19771.018966212865
 * HTML / CSS / JS: Desarrollo web para la lógica y estructura interactiva.
 * ChatGPT: Generación del código base (esqueleto HTML) mediante prompts.
 * Milanote: Pizarra colaborativa para la estructuración y recopilación del brainstorming.
