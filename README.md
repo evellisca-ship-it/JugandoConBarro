@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Resumen** : Proyecto interactivo gamificado que profundiza en la doble vida de los miembros del club de fútbol Arenas de Armilla CyD. A través de un sistema de misiones y recolección de objetos, el usuario debe interactuar con tres protagonistas (un jugador, el presidente y el delegado) en sus respectivos lugares de trabajo ajenos al fútbol (una tienda de ropa, una funeraria y una carnicería). Solo logrando conectar sus vidas laborales con su pasión deportiva se podrán conseguir los ítems necesarios para alcanzar el ansiado "ascenso".
 
-**Logotipo** :  ________
+**Logotipo** :  ![LogoJugandoConBarro](logojcb.png)
 
 **Slogan** :Cuando termina el turno, empieza la pasión
 
@@ -77,6 +77,8 @@ Revisión y testeo del código JavaScript/HTML para garantizar que la recolecci�
 Análisis crítico del diseño de interfaz (UI) y la experiencia de usuario (UX) frente a los estándares web actuales.
 
 ### Conclusiones y trabajo futuro
+Grado de consecución del proyecto: El proyecto web es funcional. La mecánica de gamificación opera en el navegador correctamente y logra su objetivo principal de enganchar al usuario mediante la recolección de ítems.
+
 Problemas identificados: La interfaz gráfica resultante es demasiado "básica" y estática. Presencia de pequeños bugs menores en el código HTML/JS que requerirían un par de días adicionales de desarrollo manual para su corrección total.
 
 Propuestas de mejora: El punto débil principal es el engagement visual. Para el trabajo futuro, se requeriría dotar a la web de mayor dinamismo: implementar una interfaz más moderna mediante CSS avanzado, fuentes tipográficas propias, diseño sonoro (efectos y música) y animaciones que acompañen el descubrimiento de los objetos.
