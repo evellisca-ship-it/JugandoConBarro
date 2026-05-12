@@ -17,7 +17,7 @@ Univesidad de Granada
 
 **Logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): Cuando termina el turno, empieza la pasión
+**Slogan** :Cuando termina el turno, empieza la pasión
 
 **Hashtag** : #ArenasArmillaCyD #JugandoConBarro
 
@@ -26,7 +26,7 @@ Univesidad de Granada
 **Fecha** : 2026
 
 **Medios** : 
-* :octocat: (github url) 
+* https://evellisca-ship-it.github.io/JugandoConBarro/
 * HTML / CSS / JS: Desarrollo web para la lógica y estructura interactiva.
 * ChatGPT: Generación del código base (esqueleto HTML) mediante prompts.
 * Milanote: Pizarra colaborativa para la estructuración y recopilación del brainstorming.
