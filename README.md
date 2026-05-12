@@ -7,8 +7,6 @@ Univesidad de Granada
 
 ----
 
-
-![img](5seconds.png)
 **Titulo** : Jugando con barro: La historia de un pueblo
 
 **Autor(es)** : Cristian Iván Cuevas Martínez, Marco Antonio Gonzales Cadillo y Mikel Vellisca Risco
@@ -98,7 +96,7 @@ Posible interés del proyecto: La sólida base narrativa y la originalidad de la
 
 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > , 202X
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > , 2026
 
 [Facultad de Comunicación y Documentación](http://fcd.ugr.es)
 
