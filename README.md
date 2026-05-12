@@ -60,8 +60,6 @@ Ir a la carnicería del delegado a por el embutido.
 Ir a la funeraria del presidente a por el "abono" (toque de humor en la narrativa).
 
 
-![gato](fedecat.png)
-
 **Inspiración/moodboard**
 
 ![Moodboard](moodboard.png)
@@ -91,8 +89,7 @@ Posible interés del proyecto: La sólida base narrativa y la originalidad de la
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* (...) 
+* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html)  
 
 
 
