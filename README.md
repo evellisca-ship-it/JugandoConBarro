@@ -13,7 +13,8 @@ Univesidad de Granada
 
 **Resumen** : Proyecto interactivo gamificado que profundiza en la doble vida de los miembros del club de fútbol Arenas de Armilla CyD. A través de un sistema de misiones y recolección de objetos, el usuario debe interactuar con tres protagonistas (un jugador, el presidente y el delegado) en sus respectivos lugares de trabajo ajenos al fútbol (una tienda de ropa, una funeraria y una carnicería). Solo logrando conectar sus vidas laborales con su pasión deportiva se podrán conseguir los ítems necesarios para alcanzar el ansiado "ascenso".
 
-**Logotipo** :  ![LogoJugandoConBarro](xxx.png)
+**Logotipo** :  
+![LogoJugandoConBarro](xxx.png)
 
 **Slogan** :Cuando termina el turno, empieza la pasión
 
